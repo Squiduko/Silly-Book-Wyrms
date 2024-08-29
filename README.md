@@ -1,15 +1,19 @@
 # Silly Book Wyrms
-Minecraft Resource Pack compatible with the Defiled Lands mod by Lykrast and RLCraft modpack by Shivaxi.
+### Minecraft Resource Pack compatible with the Defiled Lands mod by Lykrast and RLCraft modpack by Shivaxi.
+## 
 
-Replaces all Book Wyrms (gold ones too!) with much sillier TBH Creatures!
-
-![Resource Pack Icon!](https://i.ibb.co/YWNgkYt/pack.png)<br/>
-## So Silly!
+Replaces all Book Wyrms (gold ones too!) with much sillier TBH Creatures!<br/>
+![Pack Icon](https://github.com/user-attachments/assets/ad255aea-16db-4731-ab3c-9cf3005ade8f)<br/>
+*So Silly!*
+##
 
 Resource Pack is, of course, complete with silly sounds:
 + Yippee!
 + Woahh :3
-+ Yaayyy!<br/><br/>
++ Yaayyy!
+
+https://github.com/user-attachments/assets/05c62fe9-fc82-4ea2-ba91-4137d82b75c8
+##
 
 *(Do NOT unzip BookWyrms.zip, simply place it in your **../minecraft/resourcepacks** directory)*
 
